@@ -33,5 +33,6 @@ Permissions to be set for required functionality in Facebook Developer applicati
 - pages_read_engagement (read content on pages)
 - public_profile (access user information, default permission)
 
-Run '.\gradlew build' to create a fat jar file of this application
-Run '.\gradlew run' to begin executing the algorithm (make sure all fields/files are filled)
+Run '.\gradlew build' to create a fat jar file of this application.
+
+Run '.\gradlew run' to begin executing the algorithm (make sure all fields/files are filled).
